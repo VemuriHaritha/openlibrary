@@ -1354,11 +1354,11 @@ msgstr "దయచేసి URL అందించండి."
 msgid "Please provide a label."
 msgstr "దయచేసి లేబుల్ అందించండి."
 
-#: edit/web.html:103 
-msgid "" 
+#: edit/web.html:103
+msgid ""
 "\"Good\" means no spammy links, please. Keep them relevant to the book. "
- "Irrelevant sites may be removed. Blatant spam will be deleted without " 
- "remorse." 
+ "Irrelevant sites may be removed. Blatant spam will be deleted without "
+ "remorse."
  msgstr "\"మంచి\" అంటే స్పామ్ లింక్‌లు వద్దు. వాటిని పుస్తకానికి సంబంధించినవిగా ఉంచండి."
 
 #: add.html:7
