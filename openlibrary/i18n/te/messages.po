@@ -2483,6 +2483,229 @@ msgstr "మాకు అభిప్రాయం పంపండి"
 msgid "Your feedback will help us improve these cards"
 msgstr "మీ అభిప్రాయం ఈ కార్డులను మెరుగుపరచడంలో సహాయపడుతుంది"
 
+#: lib/edit_head.html:22 lib/view_head.html:14
+msgid "This doc was last edited by"
+msgstr "ఈ డాక్యుమెంట్‌ను చివరిసారిగా సవరించినది"
+
+#: lib/edit_head.html:24 lib/view_head.html:16
+msgid "This doc was last edited anonymously"
+msgstr "ఈ డాక్యుమెంట్‌ను చివరిసారిగా గుర్తు తెలియని వ్యక్తి సవరించారు"
+
+#: lib/header_dropdown.html:38
+msgid "Menu"
+msgstr "మెను"
+
+#: lib/header_dropdown.html:74
+msgid "New!"
+msgstr "కొత్త!"
+
+#: databarDiff.html:9 databarEdit.html:10 databarTemplate.html:9 databarView.html:26 databarView.html:28
+#: lib/history.html:21
+msgid "History"
+msgstr "చరిత్ర"
+
+#: lib/history.html:25
+#, python-format
+msgid "Created %(date)s"
+msgstr "%(date)s న సృష్టించబడింది"
+
+#: lib/history.html:28
+#, python-format
+msgid "%(count)d revision"
+msgid_plural "%(count)d revisions"
+msgstr[0] "%(count)d సవరణ"
+msgstr[1] "%(count)d సవరణలు"
+
+#: lib/history.html:44
+msgid "Download catalog record:"
+msgstr "క్యాటలాగ్ రికార్డ్‌ను డౌన్‌లోడ్ చేయండి:"
+
+#: lib/history.html:52
+msgid "Cite this on Wikipedia"
+msgstr "ఇదిని వికీపీడియాలో ఉల్లేఖించండి"
+
+#: lib/history.html:52
+msgid "Wikipedia citation"
+msgstr "వికీపీడియా ఉల్లేఖనం"
+
+#: lib/history.html:62
+msgid "Copy and paste this code into your Wikipedia page."
+msgstr "ఈ కోడ్‌ను కాపీ చేసి మీ వికీపీడియా పేజీలో పేస్ట్ చేయండి"
+
+#: lib/history.html:81 lib/history.html:83
+msgid "an anonymous user"
+msgstr "ఒక గుర్తు తెలియని వినియోగదారు"
+
+#: lib/history.html:85
+#, python-format
+msgid "Created by %(user)s"
+msgstr "%(user)s ద్వారా సృష్టించబడింది"
+
+#: lib/history.html:87
+#, python-format
+msgid "Edited by %(user)s"
+msgstr "%(user)s ద్వారా సవరించబడింది"
+
+#: lib/markdown.html:16
+msgid ""
+"We use a system called Markdown to format the text in your edits on Open Library. Some HTML formatting is also accepted. Paragraphs are automatically generated from any hard-break returns (blank lines) within your text. You can preview your work in real time below the editing field."
+msgstr ""
+"ఓపెన్ లైబ్రరీలో మీరు చేసిన మార్పుల టెక్స్ట్‌ను ఫార్మాట్ చేయడానికి మేము Markdown అనే వ్యవస్థను ఉపయోగిస్తాము. కొంత HTML ఫార్మాటింగ్ కూడా అంగీకరించబడుతుంది. మీ టెక్స్ట్‌లో ఉన్న ఖాళీ లైన్ల ద్వారా పేరాలు స్వయంచాలకంగా రూపొందుతాయి. ఎడిటింగ్ ఫీల్డ్ కింద మీ పని ప్రత్యక్షంగా చూడవచ్చు."
+
+#: lib/markdown.html:17
+msgid "Formatting marks should envelope the effected text, for example:"
+msgstr "ఫార్మాటింగ్ గుర్తులు ప్రభావిత టెక్స్ట్‌ను చుట్టాలి, ఉదాహరణకు:"
+
+#: lib/markdown.html:76
+msgid ""
+"To \"escape\" any Markdown tags (i.e. use an asterisk as an asterisk rather than emphasizing text) place a backslash \\ prior to the character."
+msgstr ""
+"ఏదైనా Markdown ట్యాగ్‌లను \"ఎస్కేప్\" చేయడానికి (టెక్స్ట్‌ను హైలైట్ చేయకుండా సాధారణ అస్టెరిస్క్‌గా ఉపయోగించడానికి) ఆ అక్షరానికి ముందు బ్యాక్‌స్లాష్ \\ ఉంచండి."
+
+#: lib/nav_foot.html:13
+msgid "Vision"
+msgstr "దృష్టి"
+
+#: lib/nav_foot.html:14
+msgid "Volunteer"
+msgstr "స్వచ్ఛంద సేవకుడు"
+
+#: lib/nav_foot.html:15
+msgid "Partner With Us"
+msgstr "మాతో భాగస్వామ్యం చేయండి"
+
+#: lib/nav_foot.html:16
+msgid "Jobs"
+msgstr "ఉద్యోగాలు"
+
+#: lib/nav_foot.html:16
+msgid "Careers"
+msgstr "వృత్తి అవకాశాలు"
+
+#: lib/nav_foot.html:17
+msgid "Blog"
+msgstr "బ్లాగ్"
+
+#: lib/nav_foot.html:18
+msgid "Terms of Service"
+msgstr "సేవా నిబంధనలు"
+
+#: lib/nav_foot.html:19
+msgid "Donate"
+msgstr "దానం చేయండి"
+
+#: lib/nav_foot.html:23
+msgid "Discover"
+msgstr "అన్వేషించండి"
+
+#: lib/nav_foot.html:25
+msgid "Go home"
+msgstr "హోమ్‌కు వెళ్లండి"
+
+#: lib/nav_foot.html:25
+msgid "Home"
+msgstr "హోమ్"
+
+#: lib/nav_foot.html:26
+msgid "Explore Books"
+msgstr "పుస్తకాలను అన్వేషించండి"
+
+#: SearchNavigation.html:12 lib/nav_foot.html:26
+msgid "Books"
+msgstr "పుస్తకాలు"
+
+#: lib/nav_foot.html:27
+msgid "Explore authors"
+msgstr "రచయితలను అన్వేషించండి"
+
+#: lib/nav_foot.html:28
+msgid "Explore subjects"
+msgstr "విషయాలను అన్వేషించండి"
+
+#: lib/nav_foot.html:29
+msgid "Explore collections"
+msgstr "సేకరణలను అన్వేషించండి"
+
+#: lib/nav_foot.html:29 lib/nav_head.html:32
+msgid "Collections"
+msgstr "సేకరణలు"
+
+#: SearchNavigation.html:32 lib/nav_foot.html:30 lib/nav_head.html:35 search/advancedsearch.html:7
+msgid "Advanced Search"
+msgstr "అధునాతన శోధన"
+
+#: lib/nav_foot.html:31
+msgid "Navigate to top of this page"
+msgstr "ఈ పేజీ పైభాగానికి వెళ్లండి"
+
+#: lib/nav_foot.html:31
+msgid "Return to Top"
+msgstr "పైకి వెళ్లండి"
+
+#: lib/nav_foot.html:35
+msgid "Develop"
+msgstr "అభివృద్ధి"
+
+#: lib/nav_foot.html:37
+msgid "Explore Open Library Developer Center"
+msgstr "ఓపెన్ లైబ్రరీ డెవలపర్ సెంటర్‌ను అన్వేషించండి"
+
+#: lib/nav_foot.html:37 lib/nav_head.html:43
+msgid "Developer Center"
+msgstr "డెవలపర్ సెంటర్"
+
+#: lib/nav_foot.html:38
+msgid "Explore Open Library APIs"
+msgstr "ఓపెన్ లైబ్రరీ APIలను అన్వేషించండి"
+
+#: lib/nav_foot.html:38
+msgid "API Documentation"
+msgstr "API డాక్యుమెంటేషన్"
+
+#: lib/nav_foot.html:39
+msgid "Bulk Open Library data"
+msgstr "బల్క్ ఓపెన్ లైబ్రరీ డేటా"
+
+#: lib/nav_foot.html:39
+msgid "Bulk Data Dumps"
+msgstr "బల్క్ డేటా డంప్స్"
+
+#: lib/nav_foot.html:40
+msgid "Write a bot"
+msgstr "బాట్ రాయండి"
+
+#: lib/nav_foot.html:40
+msgid "Writing Bots"
+msgstr "బాట్లు రాయడం"
+
+#: lib/nav_foot.html:41
+msgid "Add a new book to Open Library"
+msgstr "ఓపెన్ లైబ్రరీకి కొత్త పుస్తకం జోడించండి"
+
+#: lib/nav_foot.html:47
+msgid "Help Center"
+msgstr "సహాయ కేంద్రం"
+
+#: lib/nav_foot.html:48
+msgid "Problems"
+msgstr "సమస్యలు"
+
+#: lib/nav_foot.html:48
+msgid "Report A Problem"
+msgstr "సమస్యను నివేదించండి"
+
+#: lib/nav_foot.html:49
+msgid "Suggest Edits"
+msgstr "మార్పులు సూచించండి"
+
+#: lib/nav_foot.html:49
+msgid "Suggesting Edits"
+msgstr "మార్పులను సూచించడం"
+
+#: lib/nav_foot.html:57
+msgid "Change Website Language"
+msgstr "వెబ్‌సైట్ భాషను మార్చండి"
+
 #~ msgid "Edit Summary (briefly describe the changes you have made):"
 #~ msgstr "మార్పు సారాంశము (మీరు చేసిన మార్పులను క్లుప్తంగా వివరించండి):"
 
