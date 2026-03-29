@@ -1511,6 +1511,10 @@ msgstr "ఈ పేజీ పైకి వెళ్ళు"
 msgid "Go to the top of this page"
 msgstr "పైకి వెళ్ళు"
 
+#: lib/nav_foot.html:19
+msgid "Donate"
+msgstr "దానం"
+
 #: nav_foot.html:7
 msgid "Top"
 msgstr "పైకి"
@@ -2294,6 +2298,190 @@ msgid ""
 "new window\">CC0</a>. Yippee!"
 msgstr ""
 "ఈ వికీలో మార్పును సేవ్ చేయడం ద్వారా, మీరు చేసిన సహకారం <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" title=\"This link to Creative Commons will open in a new window\">CC0</a> కింద ప్రపంచానికి స్వేచ్ఛగా అందించబడుతుందని మీరు అంగీకరిస్తున్నారు. యిప్పీ!"
+
+#: home/about.html:9
+msgid "About the Project"
+msgstr "ప్రాజెక్ట్ గురించి"
+
+#: home/about.html:15
+msgid ""
+"published."
+msgstr "ఓపెన్ లైబ్రరీ ఒక ఓపెన్, ఎడిట్ చేయగల లైబ్రరీ క్యాటలాగ్, ఇది ప్రతి పుస్తకానికి ఒక వెబ్ పేజీని సృష్టిస్తుంది."
+
+#: AffiliateLinks.html:70 home/about.html:16
+msgid "More"
+msgstr "మరింత"
+
+#: home/about.html:19
+msgid ""
+"Just like Wikipedia, you can contribute new information or corrections to the catalog. You can browse "
+"by <a href=\"/subjects\">subjects</a>, <a href=\"/authors\">authors</a> or <a href=\"/lists\">lists</a> members have created. If you love books, why not help build a library?"
+msgstr ""
+"వికీపీడియా లాగే, మీరు క్యాటలాగ్‌లో కొత్త సమాచారం లేదా సవరణలు చేర్చవచ్చు. మీరు <a href=\"/subjects\">విషయాలు</a>, <a href=\"/authors\">రచయితలు</a> లేదా సభ్యులు సృష్టించిన <a href=\"/lists\">జాబితాలు</a> ద్వారా బ్రౌజ్ చేయవచ్చు. మీకు పుస్తకాలు ఇష్టమైతే, లైబ్రరీ నిర్మాణంలో సహాయం చేయండి."
+
+#: home/about.html:23
+msgid "Latest Blog Posts"
+msgstr "తాజా బ్లాగ్ పోస్టులు"
+
+#: home/categories.html:11
+msgid "Browse by Subject"
+msgstr "విషయం ప్రకారం బ్రౌజ్ చేయండి"
+
+#: home/categories.html:26
+#, python-format
+msgid "browse %(subject)s books"
+msgstr "%(subject)s పుస్తకాలను బ్రౌజ్ చేయండి"
+
+#: home/categories.html:27
+#, python-format
+msgid "%(count)s Book"
+msgid_plural "%(count)s Books"
+msgstr[0] "%(count)s పుస్తకం"
+msgstr[1] "%(count)s పుస్తకాలు"
+
+#: home/index.html:8 home/welcome.html:9
+msgid "Welcome to Open Library"
+msgstr "ఓపెన్ లైబ్రరీకి స్వాగతం"
+
+#: home/index.html:29
+msgid "Classic Books"
+msgstr "క్లాసిక్ పుస్తకాలు"
+
+#: home/index.html:36
+msgid "Recently Returned"
+msgstr "ఇటీవల తిరిగి ఇచ్చినవి"
+
+#: home/index.html:38
+msgid "Romance"
+msgstr "రోమాన్స్"
+
+#: home/index.html:40
+msgid "Kids"
+msgstr "పిల్లలు"
+
+#: home/index.html:42
+msgid "Thrillers"
+msgstr "థ్రిల్లర్ పుస్తకాలు"
+
+#: home/index.html:44
+msgid "Textbooks"
+msgstr "పాఠ్య పుస్తకాలు"
+
+#: home/stats.html:9 site/around_the_library.html:52
+msgid "Around the Library"
+msgstr "లైబ్రరీలో జరిగినవి"
+
+#: home/stats.html:10
+msgid "Here's what's happened over the last 28 days. More <a href=\"/recentchanges\">recent changes</a>"
+msgstr "గత 28 రోజుల్లో జరిగినవి ఇవి. మరిన్ని <a href=\"/recentchanges\">ఇటీవలి మార్పులు</a>"
+
+#: home/stats.html:15 home/stats.html:17
+msgid "See all visitors to OpenLibrary.org"
+msgstr "OpenLibrary.org కు వచ్చిన అన్ని సందర్శకులను చూడండి"
+
+#: home/stats.html:16
+msgid "Area graph of recent unique visitors"
+msgstr "ఇటీవలి ప్రత్యేక సందర్శకుల గ్రాఫ్"
+
+#: home/stats.html:17
+msgid "Unique Visitors"
+msgstr "ప్రత్యేక సందర్శకులు"
+
+#: home/stats.html:22 home/stats.html:24
+msgid "How many new Open Library members have we welcomed?"
+msgstr "మనం ఎంతమంది కొత్త సభ్యులను స్వాగతించాము?"
+
+#: home/stats.html:23
+msgid "Area graph of new members"
+msgstr "కొత్త సభ్యుల గ్రాఫ్"
+
+#: home/stats.html:24
+msgid "New Members"
+msgstr "కొత్త సభ్యులు"
+
+#: home/stats.html:28 home/stats.html:30
+msgid "People are constantly updating the catalog"
+msgstr "ప్రజలు నిరంతరం క్యాటలాగ్‌ను అప్డేట్ చేస్తున్నారు"
+
+#: home/stats.html:29
+msgid "Area graph of recent catalog edits"
+msgstr "ఇటీవలి క్యాటలాగ్ మార్పుల గ్రాఫ్"
+
+#: home/stats.html:30
+msgid "Catalog Edits"
+msgstr "క్యాటలాగ్ మార్పులు"
+
+#: home/stats.html:35 home/stats.html:37
+msgid "Members can create Lists"
+msgstr "సభ్యులు జాబితాలు సృష్టించవచ్చు"
+
+#: home/stats.html:36
+msgid "Area graph of lists created recently"
+msgstr "ఇటీవల సృష్టించిన జాబితాల గ్రాఫ్"
+
+#: home/stats.html:37
+msgid "Lists Created"
+msgstr "సృష్టించిన జాబితాలు"
+
+#: home/stats.html:42 home/stats.html:44
+msgid "We're a library, so we lend books, too"
+msgstr "మేము ఒక లైబ్రరీ కాబట్టి పుస్తకాలను ఇచ్చి తీసుకుంటాము"
+
+#: home/stats.html:43
+msgid "Area graph of ebooks borrowed recently"
+msgstr "ఇటీవల తీసుకున్న ఈ-బుక్స్ గ్రాఫ్"
+
+#: home/stats.html:44
+msgid "eBooks Borrowed"
+msgstr "తీసుకున్న ఈ-బుక్స్"
+
+#: home/welcome.html:26
+msgid "Read Free Library Books Online"
+msgstr "ఉచితంగా లైబ్రరీ పుస్తకాలను ఆన్‌లైన్‌లో చదవండి"
+
+#: home/welcome.html:27
+msgid "Millions of books available through Controlled Digital Lending"
+msgstr "నియంత్రిత డిజిటల్ లెండింగ్ ద్వారా లక్షలాది పుస్తకాలు అందుబాటులో ఉన్నాయి"
+
+#: home/welcome.html:40
+msgid "Keep Track of your Favorite Books"
+msgstr "మీ ఇష్టమైన పుస్తకాలను ట్రాక్ చేయండి"
+
+#: home/welcome.html:41
+msgid "Organize your Books using Lists & the Reading Log"
+msgstr "జాబితాలు మరియు రీడింగ్ లాగ్ ఉపయోగించి మీ పుస్తకాలను క్రమబద్ధం చేయండి"
+
+#: home/welcome.html:54
+msgid "Try the virtual Library Explorer"
+msgstr "వర్చువల్ లైబ్రరీ ఎక్స్‌ప్లోరర్‌ను ప్రయత్నించండి"
+
+#: home/welcome.html:55
+msgid "Digital shelves organized like a physical library"
+msgstr "డిజిటల్ షెల్వ్‌లు భౌతిక లైబ్రరీలా అమర్చబడ్డాయి"
+
+#: home/welcome.html:68
+msgid "Try Fulltext Search"
+msgstr "ఫుల్‌టెక్స్ట్ సెర్చ్ ప్రయత్నించండి"
+
+#: home/welcome.html:69
+msgid "Find matching results within the text of millions of books"
+msgstr "లక్షలాది పుస్తకాల టెక్స్ట్‌లో సరిపోలే ఫలితాలను కనుగొనండి"
+
+#: home/welcome.html:82
+msgid "Be an Open Librarian"
+msgstr "ఓపెన్ లైబ్రేరియన్ అవ్వండి"
+
+#: home/welcome.html:83
+msgid "Dozens of ways you can help improve the library"
+msgstr "లైబ్రరీను మెరుగుపరచడానికి మీరు అనేక మార్గాల్లో సహాయం చేయవచ్చు"
+
+#: home/welcome.html:96
+msgid "Send us feedback"
+msgstr "మాకు అభిప్రాయం పంపండి"
+
+#: home/welcome.html:97
+msgid "Your feedback will help us improve these cards"
+msgstr "మీ అభిప్రాయం ఈ కార్డులను మెరుగుపరచడంలో సహాయపడుతుంది"
 
 #~ msgid "Edit Summary (briefly describe the changes you have made):"
 #~ msgstr "మార్పు సారాంశము (మీరు చేసిన మార్పులను క్లుప్తంగా వివరించండి):"
