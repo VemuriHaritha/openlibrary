@@ -1655,10 +1655,6 @@ msgstr "పాఠ్యపుస్తకాలు"
 msgid "Sci-Fi"
 msgstr "సైన్స్ ఫిక్షన్"
 
-#: nav_head.html:68
-#, fuzzy
-msgid "Romance"
-msgstr "రద్దుచేయి"
 
 #: nav_head.html:69
 msgid "Fantasy"
@@ -1688,6 +1684,57 @@ msgstr "నా చదువు లాగ్"
 #: nav_head.html:81
 msgid "My Lists"
 msgstr "నా జాబితాలు"
+
+#: lib/header_dropdown.html:59 lib/nav_head.html:118 login.html:10 login.html:75
+msgid "Log In"
+msgstr "లాగిన్ అవ్వండి"
+
+#: account/create.html:19 login.html:16
+msgid "OR"
+msgstr "లేదా"
+
+#: login.html:18
+msgid ""
+"Please enter your <a href=\"https://archive.org\">Internet Archive</a> email and password to access "
+"your Open Library account."
+msgstr ""
+"మీ Open Library ఖాతాను యాక్సెస్ చేయడానికి మీ <a href=\"https://archive.org\">Internet Archive</a> ఇమెయిల్ మరియు పాస్‌వర్డ్ నమోదు చేయండి."
+
+#: account/create.html:50 login.html:21
+#, python-format
+msgid "You are already logged into Open Library as %(user)s."
+msgstr "మీరు ఇప్పటికే %(user)s గా Open Library లో లాగిన్ అయ్యారు."
+
+#: account/create.html:51 login.html:22
+msgid ""
+"If you'd like to create a new, different Open Library account, you'll need to <a href=\"javascript:;\" "
+"onclick=\"document.forms['logout'].submit()\">log out</a> and start the signup process afresh."
+msgstr ""
+"మీరు కొత్త Open Library ఖాతా సృష్టించాలనుకుంటే, ముందుగా <a href=\"javascript:;\" onclick=\"document.forms['logout'].submit()\">లాగ్ అవుట్</a> చేసి, తిరిగి సైన్ అప్ ప్రక్రియను ప్రారంభించాలి."
+
+#: login.html:42
+msgid "Email"
+msgstr "ఇమెయిల్"
+
+#: login.html:44
+msgid "Forgot your Internet Archive email?"
+msgstr "మీ Internet Archive ఇమెయిల్ మర్చిపోయారా?"
+
+#: account/email/forgot-ia.html:33 forms.py:31 login.html:54
+msgid "Password"
+msgstr "పాస్‌వర్డ్"
+
+#: login.html:64
+msgid "Remember me"
+msgstr "నన్ను గుర్తుంచుకోండి"
+
+#: account/email/forgot.html:48 login.html:79
+msgid "Forgot your Password?"
+msgstr "మీ పాస్‌వర్డ్ మర్చిపోయారా?"
+
+#: login.html:81
+msgid "Not a member of Open Library? <a href=\"/account/create\">Sign up now</a>."
+msgstr "మీరు Open Library సభ్యులు కాదా? <a href=\"/account/create\">ఇప్పుడే సైన్ అప్ చేయండి</a>."
 
 #: nav_head.html:105 openlibrary/templates/login.html:6
 #: openlibrary/templates/login.html:64
