@@ -391,7 +391,7 @@ msgid ""
 "If you work at a library and are interested to find out more about "
 "lending ebooks through Open Library, please <a href=\"/contact\">get in "
 "touch with us</a>!"
-msgstr "మీరు గ్రంథాలయంలో పని చేస్తూ, Open Library ద్వారా ఈ-పుస్తకాల రుణాలపై ఆసక్తి ఉంటే, దయచేసి మాతో సంప్రదించండి."
+msgstr "మీరు గ్రంథాలయంలో పని చేస్తుంటే మరియు ఓపెన్ లైబ్రరీ ద్వారా ఈ-పుస్తకాలు అద్దెకివ్వడం గురించి మరింత తెలుసుకోవాలనుకుంటే, దయచేసి <a href=\"/contact\">మాతో సంప్రదించండి</a>!"
 
 #: create.html:3
 msgid "Sign Up to Open Library"
@@ -423,7 +423,7 @@ msgid ""
 "need to <a href=\"javascript:;\" "
 "onclick=\"document.forms['logout'].submit()\">log out</a> and start the "
 "signup process afresh."
-msgstr "మీరు కొత్త Open Library ఖాతాను సృష్టించాలనుకుంటే, ముందుగా లాగ్ అవుట్ చేసి తిరిగి సైన్ అప్ చేయండి."
+msgstr "మీరు కొత్త ఓపెన్ లైబ్రరీ ఖాతా సృష్టించాలనుకుంటే, <a href=\"javascript:;\" onclick=\"document.forms['logout'].submit()\">లాగ్ అవుట్</a> చేసి మళ్ళీ సైన్ అప్ ప్రక్రియ మొదలు పెట్టండి."
 
 #: create.html:45 create.html:56 create.html:65
 msgid "Letters and numbers only please, and at least 3 characters."
@@ -631,7 +631,7 @@ msgstr "అకౌంట్ ముందుగానే సక్రియం చ
 msgid ""
 "Your account has been activated already. Please <a href=\"%s\">log in to "
 "continue</a>."
-msgstr "మీ ఖాతా ఇప్పటికే సక్రియం చేయబడింది. కొనసాగడానికి దయచేసి లాగిన్ అవ్వండి."
+msgstr "మీ ఖాతా ఇప్పటికే సక్రియం చేయబడింది. కొనసాగించడానికి దయచేసి <a href=\"%s\">లాగిన్ చేయండి</a>."
 
 #: verify/failed.html:3
 msgid "Email Verification Failed"
@@ -663,7 +663,7 @@ msgstr "ఈమెయిలు దృవీకరణ విజయవంతం"
 msgid ""
 "Yay! Your email address has been verified. Please <a href='%s'>log in to "
 "continue</a>."
-msgstr "అద్భుతం! మీ ఈమెయిల్ చిరునామా ధృవీకరించబడింది. కొనసాగడానికి దయచేసి లాగిన్ అవ్వండి."
+msgstr "అద్భుతం! మీ ఈమెయిల్ చిరునామా ధృవీకరించబడింది. కొనసాగించడానికి దయచేసి <a href='%s'>లాగిన్ చేయండి</a>."
 
 #: add.html:3 check.html:3
 msgid "Add a book"
@@ -744,7 +744,7 @@ msgstr "పుస్తకం చేర్చు"
 msgid ""
 "One moment... It looks like we already have <em>some potential "
 "matches</em> for <b>%s</b> by <b>%s</b>."
-msgstr "ఒక్క క్షణం... <b>%s</b> రచయిత <b>%s</b> కు సరిపోలే కొన్ని రికార్డులు ఇప్పటికే ఉన్నట్లు కనిపిస్తున్నాయి."
+msgstr "ఒక్క క్షణం... <em>కొన్ని సరిపోలే అంశాలు</em> ఇప్పటికే ఉన్నట్లు కనిపిస్తున్నాయి <b>%s</b> రచయిత <b>%s</b> కు."
 
 #: check.html:10
 msgid ""
